@@ -12,3 +12,4 @@ C:\Users\mvideo\source\repos\Lab_2\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
 C:\Users\mvideo\source\repos\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.pdb
 C:\Users\mvideo\source\repos\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
 C:\Users\mvideo\source\repos\Lab_2\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll
+C:\Users\mvideo\source\repos\Lab_2\Lab_2\obj\Debug\net8.0\Lab_2.sourcelink.json
